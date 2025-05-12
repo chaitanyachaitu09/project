@@ -1,0 +1,325 @@
+{
+  "Software Development and Engineering": {
+    "Frontend Developer": {
+      "required_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Angular",
+        "Vue.js",
+        "UI/UX Principles",
+        "Responsive Design",
+        "Cross-browser Compatibility",
+        "TypeScript",
+        "Git and Version Control",
+        "RESTful APIs Integration",
+        "Accessibility (WCAG Standards)",
+        "Testing Frameworks (Jest, Cypress)",
+        "Performance Optimization",
+        "State Management (Redux, Vuex)"
+      ],
+      "description": "Design, build, and optimize visually compelling, intuitive, and high-performance web interfaces using modern frontend frameworks and best practices. Collaborate closely with designers, backend developers, and stakeholders to deliver scalable and accessible applications across platforms and devices.",
+      "sections": [
+        "Summary",
+        "Technical Skills",
+        "Key Projects",
+        "Work Experience",
+        "Education",
+        "Certifications",
+        "Achievements",
+        "Professional Development"
+      ],
+      "recommended_skills": {
+        "technical": [
+          "HTML5",
+          "CSS3",
+          "JavaScript (ES6+)",
+          "React, Angular, or Vue.js",
+          "TypeScript",
+          "SASS/SCSS",
+          "Git and GitHub/GitLab",
+          "Responsive and Mobile-First Design",
+          "Testing and Debugging",
+          "Basic Knowledge of Backend (Node.js, APIs)"
+        ],
+        "soft": [
+          "Effective Communication",
+          "Problem-solving",
+          "Attention to Detail",
+          "Creativity and Innovation",
+          "Adaptability",
+          "Team Collaboration",
+          "Critical Thinking",
+          "Time Management",
+          "Empathy for Users",
+          "Continuous Learning Mindset"
+        ]
+      }
+    },
+    "Backend Developer": {
+      "required_skills": [
+        "Python",
+        "Java",
+        "Node.js",
+        "SQL",
+        "API Development",
+        "Django",
+        "Flask",
+        "Spring Boot",
+        "Express.js",
+        "Database Design",
+        "Authentication and Authorization",
+        "Security Best Practices",
+        "Caching (Redis, Memcached)",
+        "Scalability Principles",
+        "Cloud Services (AWS, Azure)"
+      ],
+      "description": "Develop and maintain robust server-side logic, ensure high performance and responsiveness, integrate with front-end components, manage scalable databases, and secure APIs to support complex web and mobile platforms. Collaborate with frontend developers, DevOps teams, and product managers.",
+      "sections": [
+        "Summary",
+        "Technical Skills",
+        "System Architecture",
+        "Projects",
+        "Work Experience",
+        "Education",
+        "Certifications",
+        "Achievements"
+      ],
+      "recommended_skills": {
+        "technical": [
+          "Python/Java/Node.js",
+          "SQL & NoSQL Databases",
+          "RESTful and GraphQL APIs",
+          "Microservices Architecture",
+          "Docker & Kubernetes",
+          "Cloud Deployment (AWS/GCP)"
+        ],
+        "soft": [
+          "Analytical Thinking",
+          "Problem-solving",
+          "Team Collaboration",
+          "Communication",
+          "Adaptability",
+          "Attention to Detail"
+        ]
+      }
+    }
+  },
+  "Data Science and Analytics": {
+    "Data Scientist": {
+      "required_skills": [
+        "Python",
+        "R",
+        "Machine Learning",
+        "Statistics",
+        "SQL",
+        "Deep Learning",
+        "Data Wrangling",
+        "Big Data Tools (Hadoop, Spark)",
+        "Data Visualization (Tableau, Matplotlib, Seaborn)",
+        "Model Evaluation and Validation",
+        "Feature Engineering",
+        "Cloud-based ML (AWS SageMaker, GCP AI Platform)"
+      ],
+      "description": "Use advanced statistical, machine learning, and AI techniques to analyze complex datasets, uncover hidden patterns, build predictive models, and generate actionable insights that drive business strategy and innovation.",
+      "sections": [
+        "Summary",
+        "Technical Skills",
+        "Data Science Projects",
+        "Research Experience",
+        "Certifications",
+        "Education",
+        "Publications"
+      ],
+      "recommended_skills": {
+        "technical": [
+          "Python/R",
+          "Machine Learning & Deep Learning",
+          "Big Data Ecosystem",
+          "Cloud ML Platforms",
+          "Data Visualization"
+        ],
+        "soft": [
+          "Analytical Thinking",
+          "Research Mindset",
+          "Problem-solving",
+          "Communication",
+          "Storytelling with Data",
+          "Continuous Learning"
+        ]
+      }
+    }
+  },
+  "Cloud Computing and DevOps": {
+    "Cloud Architect": {
+      "required_skills": [
+        "AWS",
+        "Azure",
+        "GCP",
+        "Infrastructure as Code (Terraform, CloudFormation)",
+        "Cloud Security",
+        "Networking (VPC, Load Balancing, DNS)",
+        "Cloud Architecture Best Practices",
+        "Cost Optimization Strategies",
+        "High Availability and Disaster Recovery",
+        "Containerization (Docker, Kubernetes)",
+        "Serverless Computing",
+        "Cloud Monitoring and Logging Tools"
+      ],
+      "description": "Design, build, and optimize scalable, secure, and cost-effective cloud solutions, aligning cloud strategy with business goals across multi-cloud and hybrid environments.",
+      "sections": [
+        "Summary",
+        "Technical Skills",
+        "Cloud Projects",
+        "Certifications",
+        "Work Experience",
+        "Education",
+        "Achievements"
+      ],
+      "recommended_skills": {
+        "technical": [
+          "Cloud Architecture",
+          "Security and Compliance",
+          "Networking",
+          "Infrastructure as Code",
+          "Cost Optimization Techniques"
+        ],
+        "soft": [
+          "Strategic Thinking",
+          "Problem-solving",
+          "Communication",
+          "Leadership",
+          "Business Acumen",
+          "Decision-making"
+        ]
+      }
+    }
+  },
+  "Cybersecurity": {
+    "Security Analyst": {
+      "required_skills": [
+        "Network Security",
+        "Threat Detection and Analysis",
+        "Security Tools (Wireshark, Splunk)",
+        "Incident Response",
+        "SIEM Systems (Security Information and Event Management)",
+        "Compliance Standards (ISO 27001, GDPR, HIPAA)",
+        "Risk Assessment",
+        "Vulnerability Scanning",
+        "Firewall and IDS/IPS Management",
+        "Endpoint Protection"
+      ],
+      "description": "Monitor, detect, investigate, and respond to security incidents. Protect organizational assets by identifying vulnerabilities, implementing security controls, and ensuring compliance with security standards and regulations.",
+      "sections": [
+        "Summary",
+        "Technical Skills",
+        "Security Projects",
+        "Certifications",
+        "Work Experience",
+        "Education",
+        "Achievements"
+      ],
+      "recommended_skills": {
+        "technical": [
+          "Threat Detection Tools",
+          "Network and Application Security",
+          "SIEM Management",
+          "Risk and Compliance Knowledge"
+        ],
+        "soft": [
+          "Analytical Thinking",
+          "Attention to Detail",
+          "Communication Skills",
+          "Problem-solving",
+          "Critical Thinking",
+          "Adaptability"
+        ]
+      }
+    }
+  },
+  "UI/UX Design": {
+    "UI Designer": {
+      "required_skills": [
+        "Figma",
+        "Adobe XD",
+        "Sketch",
+        "Visual Design Principles",
+        "Typography and Color Theory",
+        "Prototyping and Wireframing",
+        "Design Systems and Style Guides",
+        "Responsive and Adaptive Design",
+        "Interaction Design",
+        "Basic HTML/CSS Understanding"
+      ],
+      "description": "Create visually appealing and functional interfaces that enhance the user experience, ensuring consistency across platforms by utilizing modern design tools and adhering to established visual and brand guidelines.",
+      "sections": [
+        "Summary",
+        "Design Skills",
+        "Portfolio",
+        "Work Experience",
+        "Education",
+        "Certifications",
+        "Achievements"
+      ],
+      "recommended_skills": {
+        "technical": [
+          "Design Tools (Figma, XD, Sketch)",
+          "Prototyping",
+          "UI Animation",
+          "Cross-Platform Design"
+        ],
+        "soft": [
+          "Creativity",
+          "Attention to Detail",
+          "User Empathy",
+          "Collaboration",
+          "Problem-solving",
+          "Communication"
+        ]
+      }
+    }
+  },
+  "Project and Product Management": {
+    "Project Manager": {
+      "required_skills": [
+        "Project Planning and Scheduling",
+        "Agile and Scrum Methodologies",
+        "Risk Management",
+        "Stakeholder Management",
+        "Budgeting and Financial Tracking",
+        "Resource Allocation",
+        "Project Management Tools (Jira, Trello, MS Project)",
+        "Team Leadership",
+        "Reporting and Documentation",
+        "Change Management"
+      ],
+      "description": "Lead projects from conception to completion by managing teams, resources, budgets, and timelines. Ensure project goals align with business strategy, mitigating risks and maintaining stakeholder engagement throughout the project lifecycle.",
+      "sections": [
+        "Summary",
+        "Management Skills",
+        "Project History",
+        "Certifications",
+        "Work Experience",
+        "Education",
+        "Achievements"
+      ],
+      "recommended_skills": {
+        "technical": [
+          "Project Management Tools",
+          "Agile and Waterfall Methodologies",
+          "Risk and Issue Management",
+          "Financial Budgeting"
+        ],
+        "soft": [
+          "Leadership",
+          "Problem-solving",
+          "Communication",
+          "Negotiation",
+          "Strategic Thinking",
+          "Conflict Resolution"
+        ]
+      }
+    }
+  }
+}
